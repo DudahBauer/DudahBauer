@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hello there, my name Maria Eduarda</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hello there, my name Maria Eduarda</b>
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/demo/?font=comic+sans+ms&color=F792F1&lines=Hey%2C+my+name+is+Maria+Eduarda!!;I+turn+chocolate+into+code;Powered+by+snacks.;Coding+like+a+girl." alt="Typing SVG" /></a>
@@ -24,10 +24,6 @@
 <p align="center">
 
 - **Back-End Development**:
-
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-  <br>
   ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 <br>
