@@ -4,7 +4,7 @@
 <a href="https://git.io/typing-svg"><img src=<h1 align="center"><b>Hello there, my name Maria Eduarda</b>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/demo/?font=comic+sans+ms&color=F792F1&lines=Hey%2C+my+name+is+Maria+Eduarda!!;I+turn+chocolate+into+code;Powered+by+snacks.;Coding+like+a+girl." alt=Typing SVG /></a>
+<a href="https://git.io/typing-svg"><img src=https://readme-typing-svg.herokuapp.com/demo/?font=comic+sans+ms&color=F792F1&lines=Hey%2C+my+name+is+Maria+Eduarda!!;I+turn+chocolate+into+code;Powered+by+snacks.;Coding+like+a+girl. alt=Typing SVG /></a>
 </p>
 
 <br>
