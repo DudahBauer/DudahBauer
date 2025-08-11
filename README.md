@@ -1,25 +1,23 @@
 <h1 align="center"><b>Hello there, my name Maria Eduarda</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
+
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/demo/?font=comic+sans+ms&color=F792F1&lines=Hey%2C+my+name+is+Maria+Eduarda!!;I+turn+chocolate+into+code;Powered+by+snacks.;Coding+like+a+girl."alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/demo/?font=comic+sans+ms&color=F792F1&lines=Hey%2C+my+name+is+Maria+Eduarda!!;I+turn+chocolate+into+code;Powered+by+snacks.;Coding+like+a+girl." alt="Typing SVG" /></a>
 </p>
 
 <br>
 
 ## **About me**
 
-<br>
-
 - I'm a front-end developer
 - I'm learning about web designer and UI/UX designer
 - Analysis and systems development Student at UNNINTER
-- I’m currently open for an Intern or a new job opportunity, this is [my lindkedin](https://www.linkedin.com/in/maria-eduarda-vicente-bauer-55664230a/)
+- I’m currently open for an Intern or a new job opportunity, this is [my linkedin](https://www.linkedin.com/in/maria-eduarda-vicente-bauer-55664230a/)
 
-`<br><br>`
+<br><br>
 
-` <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>``<br> `
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-## `<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>` Skills`</b>`
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> <b>Skills</b>
 
 <br>
 
@@ -29,7 +27,7 @@
 
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
   ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-  `<br>`
+  <br>
   ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 <br>
@@ -38,16 +36,16 @@
 
   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  `<br>`
+  <br>
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  `<br>`
+  <br>
 
 <br>
 
 - **Cloud Hosting**:
 
   ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-  `<br>`
+  <br>
   ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <br>
@@ -56,13 +54,13 @@
 
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  `<br>`
+  <br>
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  `<br>`
+  <br>
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  `<br>`
+  <br>
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-  `<br>`
+  <br>
 
 </p>
 
@@ -73,7 +71,7 @@
 
 <br>
 
-## `<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>` Github Stats `</b>`
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> <b>Github Stats</b>
 
 <br>
 
@@ -86,12 +84,13 @@
 <br>
 <br>
 </div>
+
 ---
 
 <br>
 <br>
 
-## `<b>` Let's Connect..!`</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">`
+## <b>Let's Connect..!</b> <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
 
 <br>
 <div align='left'>
@@ -99,8 +98,8 @@
 <ul>
 
 <li>
-<a href=""https://www.linkedin.com/in/maria-eduarda-vicente-bauer-55664230a/" target="_blank">
-
+<a href="https://www.linkedin.com/in/maria-eduarda-vicente-bauer-55664230a/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Maria%20Eduarda-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </li>
 
@@ -108,7 +107,7 @@
 
 <li>
 <a href="mailto:dev.mevbauer@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  Gustavo-Gorges-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/Gmail-Maria%20Eduarda-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </li>
 
@@ -123,7 +122,7 @@
 
 <div align='center'>
 
-## `<b>`Thanks for reading until here, see you next time✨`</b>`
+## <b>Thanks for reading until here, see you next time✨</b>
 
 </div>
 <br>
@@ -135,4 +134,4 @@
 
 <br>
 
-Last update at on: 11/03/2025 -> day/month/year
+Last update on: 11/03/2025 -> day/month/year
