@@ -7,8 +7,9 @@
 </p>
 
 <p align="center">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3ZseHY3MmR3aGw4dHlqdTIxMWhlZ2llY3Y0MWFwMnI0enVnc3cxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kZqbBT64ECtjy/giphy.gif" alt="Hello kitty" />
+<img height="100"  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3ZseHY3MmR3aGw4dHlqdTIxMWhlZ2llY3Y0MWFwMnI0enVnc3cxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kZqbBT64ECtjy/giphy.gif" alt="Hello kitty" />
 </p>
+
 ## **About me**
 
 - I'm a front-end developer  
