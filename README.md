@@ -12,10 +12,10 @@
 
 ## **About me**
 
-- I'm a front-end developer  
-- I'm learning about web designer and UI/UX designer  
-- Analysis and systems development Student at UNNINTER  
-- I’m currently open for an Intern or a new job opportunity, this is [my linkedin](https://www.linkedin.com/in/maria-eduarda-vicente-bauer-55664230a/)
+♡ I'm a front-end developer  
+♡ I'm learning about web development and UI/UX designer  
+♡ Analysis and systems development Student at UNNINTER  
+→ I’m currently open for an Intern or a new job opportunity, this is [my linkedin](https://www.linkedin.com/in/maria-eduarda-vicente-bauer-55664230a/)
 
 <br><br>
 
@@ -27,13 +27,13 @@
 
 <p align="center">
 
-- **Back-End Development**:  
+• **Back-End Development**:  
   <br>
   ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 <br>
 
-- **Front-End Development**:
+• **Front-End Development**:
 
   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -43,15 +43,7 @@
 
 <br>
 
-- **Cloud Hosting**:
-
-  ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-  <br>
-  ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-
-<br>
-
-- **Softwares and Tools**:
+• **Softwares and Tools**:
 
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -123,7 +115,7 @@
 
 <div align='center'>
 
-## <b>Thanks for reading until here, see you next time✨</b>
+## <b>Thanks for reading until here, see you next time✨💗</b>
 
 </div>
 <br>
